@@ -2,7 +2,7 @@
 handige links om snel te starten
 
 
-# CODE.ORG Minecraft
+# code.org - Minecraft
 https://studio.code.org/courses/mc/units/1/lessons/1/levels/1  
 https://studio.code.org/courses/aquatic/units/1/lessons/1/levels/1
 
@@ -12,5 +12,5 @@ https://scratch.mit.edu/
 # Voorbeelden
 https://scratch.mit.edu/projects/10128431
 
-# MICRO:BIT
+# micro:bit
 https://makecode.microbit.org/
