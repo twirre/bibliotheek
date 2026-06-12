@@ -20,3 +20,4 @@ https://github.com/iverburgh/Tetris-Scratch_Microbit
 
 # LegoWeDo2.0
 https://github.com/iverburgh/Raceauto-Scratch_Lego_WeDo  
+https://github.com/twirre/krokodil 
